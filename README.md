@@ -1,8 +1,9 @@
 # e-py
 
-Welcome the another python3 app , now thisi is an python emailer app 
+Welcome the another python3 app , now thisi is an python emailer app , you can send emails just from the App.
 
 Note : you have to allow "Less secure app access" from manage your google account > security 
+Note: I'm responsable for your usage because the app saves your email, and pass for reuse it another time whitout typing it. the file is .txt so be careful .
 
 # Linux users 
 
